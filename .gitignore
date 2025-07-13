@@ -1,0 +1,12 @@
+stl10_test.py
+/data
+/scripts/__pycache__
+/scripts/dataloader_old.py
+/scripts/train_old.py
+/scripts/AlexNet_imp.py
+/scripts/train_imp.py
+main_imp.py
+main_old.py
+/results/accuracy_curve_imp.png
+/results/loss_curve_imp.png
+/wts
